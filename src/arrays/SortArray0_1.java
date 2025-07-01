@@ -1,4 +1,4 @@
-package First.src.arrays;
+package arrays;
 
 public class SortArray0_1 {
 

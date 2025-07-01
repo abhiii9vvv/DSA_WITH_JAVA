@@ -1,4 +1,4 @@
-package First.src.arrays;
+package arrays;
 
 public class Swap2Values {
     static void swap(int a , int b){
