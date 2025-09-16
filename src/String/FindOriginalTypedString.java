@@ -7,5 +7,6 @@ public class FindOriginalTypedString {
             if (word.charAt(i) == word.charAt(i - 1)) count++;
         }
         return count + 1;
+
     }
 }
