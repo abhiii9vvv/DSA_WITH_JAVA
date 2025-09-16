@@ -65,5 +65,8 @@ public class Problems {
         // Sort the list of strings using the Collections.sort method
         Collections.sort(list1);
         System.out.println("List of Strings after sorting: " + list1);
+
+        Collections.sort(list1,Collections.reverseOrder());
+        System.out.println("Sorted in order" + list1);
     }
 }
