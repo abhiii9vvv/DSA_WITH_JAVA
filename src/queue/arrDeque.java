@@ -13,5 +13,8 @@ public class arrDeque {
         System.out.println(ad.peek());
         ad.poll();
         System.out.println(ad);
+        ad.offerFirst(1);
+        ad.offerLast(4);
+        System.out.println(ad);
     }
 }
